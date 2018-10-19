@@ -1,0 +1,20 @@
+{
+	"name": "Sirius/SiriusMVC",
+    "description": "Very Simple PHP Framework",
+    "author":"Munaf Aqeel Mahdi",
+    "type": "Framework",
+    "require": {
+        "illuminate/database": "^5.7",
+		"eftec/bladeone": "^3.12"
+    },
+    "autoload": {
+        "psr-4":{
+    		"App\\" : "app/",
+            "eftec\\": "vendor/eftec/"
+    	}
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "^2.5",
+        "filp/whoops": "^2.2"
+    }
+}
