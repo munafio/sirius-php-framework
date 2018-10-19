@@ -1,3 +1,4 @@
+![Sirius PHP Framework!](https://i.imgur.com/YfYo09o.png)
 # Sirius PHP Framework
 A Very Simple PHP Framework (MVC)
 
@@ -92,7 +93,7 @@ This simple project built by [Munaf Aqeel Mahdi](https://github.com/munafaqeelma
 [Facebook personal page](https://facebook.com/munafio) <br>
 [Twitter](https://twitter.com/munaf_aqeel_m) <br>
 
-or on email [munafaqeelmahdi@gmail.com]
+or at email [munafaqeelmahdi@gmail.com]
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -25,9 +25,6 @@ class Web{
 
 		// This route of the main page
 		Route::get('/', 'homeController', 'index', [Func::env('APP_NAME','Sirius'),'Munaf Aqeel Mahdi']);
-		Route::get('/go', 'homeController', 'test', ['/go']);
-		Route::get('/google', 'homeController', 'test', ['/google']);
-		Route::get('/go/test', 'homeController', 'test', ['/go/test']);
 
 		// Insert user info to database :[ Function already in homeController]	
 		// Route::get('create/user', 'homeController', 'create',['munafio','munafaqeelmahdi@gmail.com']);
