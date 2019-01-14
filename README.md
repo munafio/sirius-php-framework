@@ -86,7 +86,7 @@ The route system that used in this framework is built without any library, I bui
 * [`vlucas/phpdotenv`](https://github.com/vlucas/phpdotenv) Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 
 ## About the author
-This simple project built by [Munaf Aqeel Mahdi](https://github.com/munafaqeelmahdi)
+This simple project built by [Munaf Aqeel Mahdi](https://github.com/munafio)
 
 #### Contact me
 [Instagram](https://instagram.com/munafio) <br>
