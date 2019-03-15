@@ -11,7 +11,7 @@ A Very Simple PHP Framework (MVC)
 * Working with database using  `Eloquent ORM`.
 
 ## Installation
-No need for composer to install the framework, just [download](https://github.com/munafaqeelmahdi/sirius-php-framework) the framework and getting started .
+No need for composer to install the framework, just [download](https://github.com/munafio/sirius-php-framework) the framework and getting started .
 
 ## Configuration
 #### Public Directory
