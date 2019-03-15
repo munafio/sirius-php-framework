@@ -35,6 +35,6 @@
 </head>
 <body>
 <h1>Welcome, <span>{{ $name }}_</span></h1>
-<p style="margin-top: -65px;">Made with <span>&#10084;</span> by : <a href="http://github.com/munafaqeelmahdi" target="_blank">{{ $madeBy }}</a></p>
+<p style="margin-top: -65px;">Made with <span>&#10084;</span> by : <a href="http://github.com/munafio" target="_blank">{{ $madeBy }}</a></p>
 </body>
 </html>
